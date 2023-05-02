@@ -19,6 +19,15 @@ Lembrando que as APIS utilizam do protocolo HTTP para realizar as operações.
 De uma forma direta, Node.JS é um ecossistema de execução Javascript server-side (Backend), foi projetado para desenvolvimento de aplicações escaláveis de rede. 
 E hoje é mantido pela fundação NODE em parceria com o time do Linux Foundation.
 
+##  :key: O que é Express.JS?
+
+Express.JS hoje é um dos mais populares frameworks baseados em NODE.JS para criação de aplicações server-side (Backend) em específico para desenvolvimento em arquitetura (REST).
+
+É simples, rápido, minimalista e incrivelmente poderoso.
+
+Você consegue resolver qualquer tipo de problema utilizando ele.
+ 
+
 
 ##  :key:Como Testar a Api?
 
