@@ -3,7 +3,7 @@
 
 Este é um projeto desenvolvido utilizando Tecnologias  de backend para construcao de uma api com node.js framework Express.
 
-##:key: O que é um CRUD?
+##  :key: O que é um CRUD?
 
 De uma forma simplificada CRUD são as operações em que uma API vem a desempenhar: 
 
@@ -14,7 +14,7 @@ DELETE: (DELETE) - Para deletar um recurso no sistema.
 
 Lembrando que as APIS utilizam do protocolo HTTP para realizar as operações.
 
-##:key: O que é Node.JS?
+##  :key: O que é Node.JS?
 
 De uma forma direta, Node.JS é um ecossistema de execução Javascript server-side (Backend), foi projetado para desenvolvimento de aplicações escaláveis de rede. 
 E hoje é mantido pela fundação NODE em parceria com o time do Linux Foundation.
