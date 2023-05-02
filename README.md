@@ -33,7 +33,7 @@ Você consegue resolver qualquer tipo de problema utilizando ele.
 
 ## Modelo Padrão MVC
 
-<img src="https://img.portalgsti.com.br/cVaESgZSfs_B5NNehEEgYq3XVJ0=/708x0/https://www.portalgsti.com.br/media/uploads/fernandopalma/mvc.jpg" />
+<img src="https://img.portalgsti.com.br/cVaESgZSfs_B5NNehEEgYq3XVJ0=/708x0/https://www.portalgsti.com.br/media/uploads/fernandopalma/mvc.jpg" width="420px" />
  
 
 
