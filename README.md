@@ -18,6 +18,9 @@ Lembrando que as APIS utilizam do protocolo HTTP para realizar as operações.
 
 De uma forma direta, Node.JS é um ecossistema de execução Javascript server-side (Backend), foi projetado para desenvolvimento de aplicações escaláveis de rede. 
 E hoje é mantido pela fundação NODE em parceria com o time do Linux Foundation.
+Muitos acreditam que Node JS é uma linguagem de programação, acontece que, geralmente, é referida como linguagem. No entanto, Node JS é uma plataforma para back-end que aceita código JavaScript. Isto é, Node JS é uma maneira de usar JavaScript no back-end.
+
+Fato curioso sobre Node JS: ele foi construído em cima da V8, que é o Engine, ou seja, o motor  por trás do Google Chrome. Isso torna o Node JS muito rápido, além de permitir que você reutilize todo conhecimento de JavaScript (adquirido para front-end) também no back-end.
 
 ##  :key: O que é Express.JS?
 
