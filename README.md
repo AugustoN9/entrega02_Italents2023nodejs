@@ -7,10 +7,10 @@ Este é um projeto desenvolvido utilizando Tecnologias  de backend para construc
 
 De uma forma simplificada CRUD são as operações em que uma API vem a desempenhar: 
 
-CREATE: (POST) - Como o nome já diz, para criar um recurso no sistema.
-READ: (GET) - Para ler um recurso no sistema.
-UPDATE (PUT or PATCH) - Para atualizar um recurso no sistema.
-DELETE: (DELETE) - Para deletar um recurso no sistema.
+- CREATE: (POST) - Como o nome já diz, para criar um recurso no sistema.
+- READ: (GET) - Para ler um recurso no sistema.
+- UPDATE (PUT or PATCH) - Para atualizar um recurso no sistema.
+- DELETE: (DELETE) - Para deletar um recurso no sistema.
 
 Lembrando que as APIS utilizam do protocolo HTTP para realizar as operações.
 
