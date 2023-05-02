@@ -1,7 +1,7 @@
 # entrega02_Italents2023nodejs
 # :computer:Projeto Express CRUD user saved in memory
 
-Este é um projeto desenvolvido utilizando Tecnologias  de backend para construcao de uma api com node.js framework Express.
+Este é um projeto desenvolvido utilizando Tecnologias de backend para construção de uma api com node.js e framework Express, seguindo o padão MVC
 
 ##  :key: O que é um CRUD?
 
@@ -30,12 +30,16 @@ Express.JS hoje é um dos mais populares frameworks baseados em NODE.JS para cri
 É simples, rápido, minimalista e incrivelmente poderoso.
 
 Você consegue resolver qualquer tipo de problema utilizando ele.
+
+## Modelo Padrão MVC
+
+<img src="https://img.portalgsti.com.br/cVaESgZSfs_B5NNehEEgYq3XVJ0=/708x0/https://www.portalgsti.com.br/media/uploads/fernandopalma/mvc.jpg" />
  
 
 
 ##  :key:Como Testar a Api?
 
-O funcionamento do projeto  pode ser testado usando a extensão Thunder para usar os endpoints:
+O funcionamento do projeto  pode ser testado usando a extensão no VScode Thunder para usar os endpoints:
 >
 - **/findAll** -  de buscar todos os usuarios;
 - **/find/id** - buscar um usuario especifico;
