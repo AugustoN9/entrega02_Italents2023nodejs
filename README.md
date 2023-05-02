@@ -31,8 +31,10 @@ Express.JS hoje é um dos mais populares frameworks baseados em NODE.JS para cri
 
 Você consegue resolver qualquer tipo de problema utilizando ele.
 
-## Modelo Padrão MVC
+## O que é MVC? (Model – View – Controller)
 
+O MVC é um padrão de arquitetura de software que separa a sua aplicação em 3 camadas. 
+A camada de interação do usuário **View**, a camada de manipulação dos dados **Model** e a camada de controle **Controller**.
 <img src="https://img.portalgsti.com.br/cVaESgZSfs_B5NNehEEgYq3XVJ0=/708x0/https://www.portalgsti.com.br/media/uploads/fernandopalma/mvc.jpg" width="420px" />
  
 
