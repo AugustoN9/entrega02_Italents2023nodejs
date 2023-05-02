@@ -55,3 +55,5 @@ Site para pegar emajis para colocar na readme do github.
 https://gist.github.com/rxaviers/7360908          
 #Como criar um README para o seu perfil do GitHub
 https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
+#Entendendo parâmetros em requisições de uma vez por todas!
+https://www.linkedin.com/pulse/entendendo-par%C3%A2metros-em-requisi%C3%A7%C3%B5es-de-uma-vez-por-todas-henrique/?originalSubdomain=pt
